@@ -1,7 +1,7 @@
 # Hi there, I'm Steven
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a have been learning for coding for 4 years now 
 
 - 🔭 Check out my Rust proecject was fun to make did really use it lol
 - 🌱 I’m currently learning everything 🤣
