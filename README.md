@@ -1,9 +1,9 @@
 # Hi there, I'm Steven
 
 
-## I'm a have been learning for coding for 4 years now 
+## I'm a have been learning coding for 4 years now 
 
-- 🔭 Check out my Rust proecject was fun to make did really use it lol
+- 🔭 Check out my Rust proecject. was fun to make, but did't really use it lol
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learning more backend for Web Dev
